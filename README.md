@@ -2,10 +2,9 @@
 
 ## This GitHub Homepage was created in 2024/1/7
 
-### Since Jan. 2024, my homepage was ported from [USTC PhD Homepage](http://home.ustc.edu.cn/~lcc666/) to the Github.
+### Since Jan. 2024, my homepage was ported from [USTC PhD Homepage](http://home.ustc.edu.cn/~lcc666/) to the Github Pages.
 
 
-#### 
 
 Last updated: 2024/1/8 
               
