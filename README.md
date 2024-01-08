@@ -8,7 +8,7 @@
 
 Last updated: 2024/1/8 
               
-Beta version 1.3 for the codes of homepage (2021/08/08).
+Beta version 1.3 for the homepage codes (2021/08/08).
 
 Cheng-Cheng Liu acknowledges the 449th template from templatesy.com.
 
