@@ -6,7 +6,7 @@ Ported from my previous [USTC PhD Homepage](http://home.ustc.edu.cn/~lcc666/) si
 
 Last updated: 2024/1/8 
               
-              Beta version 1.3 (2021/08/08).
+Beta version 1.3 for this homepage (2021/08/08).
 
 Cheng-Cheng Liu acknowledges the 449th template from templatesy.com.
 
